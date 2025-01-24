@@ -62,4 +62,8 @@ func arraySlicesBasics() {
 		fmt.Printf("index is %v , and value is %v \n", i , v)
 	}
 
+	for i:=0; i < 5; i++ {
+		fmt.Println(i)
+	  }
+
 }
